@@ -1,2 +1,1 @@
-# Aula_introdutoria
-Aula introdutória da disciplina de Banco de Dados II
+Repositório dedicado para as aulas de Banco de Dados.
